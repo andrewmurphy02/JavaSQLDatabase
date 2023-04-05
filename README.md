@@ -1,1 +1,1 @@
-# JavaSQLDatabase
+# This program uses java to interact with a database via JDBC. It runs from the command line. It interacts with an end-user to insert, and update records as well as handle queries on the data. It uses MySQL as the backend.
