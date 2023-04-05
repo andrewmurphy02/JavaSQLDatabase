@@ -25,8 +25,8 @@ public class jdbc_example {
 
 	// The main program", that tests the methods
 	public static void main(String[] args) throws SQLException {
-		String Username = "ajm057"; // Change to your own username
-		String mysqlPassword = "de2ki3Ah"; // Change to your own mysql Password
+		String Username = "USERNAME"; // Change to your own username
+		String mysqlPassword = "PASSWORD"; // Change to your own mysql Password
 
 		// Create a jdbc_example instance called test
 		jdbc_example test = new jdbc_example();
